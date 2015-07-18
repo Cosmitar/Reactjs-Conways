@@ -8,4 +8,4 @@ npm install
 npm start
 Open http://localhost:5000
 ```
-I recomend Google Chrome for js high performance
+I recomend Google Chrome for high js performance
