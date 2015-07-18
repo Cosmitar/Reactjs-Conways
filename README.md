@@ -1,13 +1,4 @@
-# React ES6 Webpack Boilerplate
-
-Boilerplate for kick starting a project with the following technologies:
-* [React](https://github.com/facebook/react)
-* [ES6 with Babel](http://babeljs.io)
-* [Webpack](http://webpack.github.io) for bundling
-* [Webpack Dev Server](http://webpack.github.io/docs/webpack-dev-server.html)
-* [React Hot Loader](http://gaearon.github.io/react-hot-loader/) for tweaking React components in real time.
-
-The various webpack options used have been explained in detailed as comments in the config file. Should help with understanding the nitty-gritty :)
+# [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) implementation using React ES6 Webpack Boilerplate
 
 
 ### Usage
@@ -17,6 +8,7 @@ npm install
 npm start
 Open http://localhost:5000
 ```
+I recomend Google Chrome for js high performance
 
 ### Linting
 
