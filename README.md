@@ -1,4 +1,5 @@
-# Test [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) implementation using React ES6 Webpack Boilerplate
+# Conway's game of life with React
+Test of [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) implementation using React ES6 Webpack Boilerplate
 
 
 ### Usage
